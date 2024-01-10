@@ -1,4 +1,5 @@
-<img src="https://github.com/aceta-minophen/Rudra/blob/website/Website/public/Rudra.svg" align="right" width="200">
+<img src="https://github.com/ShujaazAI/MalkiaAI/assets/72182017/a14ff432-3617-4ead-99a4-69eacb5f747f" align="right" width="200">
+
 
 # Malkia
 A smart healthcare assistant robot intended for home and hospital use.
